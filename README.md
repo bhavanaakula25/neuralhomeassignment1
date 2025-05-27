@@ -19,7 +19,6 @@ This assignment covers:
 ```
 tensorboard --logdir=logs/fit
 ```
-Visit: http://localhost:6006
 
 ## Requirements
 ```
